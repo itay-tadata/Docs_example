@@ -1,3 +1,4 @@
 - [Read Me](README)
-- [Example Second Page](second-page)
 - [Finding Snsitive Information In Google Drive](Finding_sensitive_information)
+- [How Does File Search Work?](file-share-work)
+- [Revoking external access to sensitive files](revoking-access)
