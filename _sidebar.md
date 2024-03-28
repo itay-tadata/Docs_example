@@ -1,3 +1,3 @@
 - [Read Me](README)
 - [Example Second Page](second-page)
-- [Finding Snsitive Information In Google Drive](https://github.com/itay-tadata/Docs_example/blob/main/Finding_sensitive_information.md)
+- [Finding Snsitive Information In Google Drive](Finding_sensitive_information)
