@@ -24,7 +24,7 @@ To start using the data protection for Google Drive feature, follow these steps:
 
 ## Using the File Search Interface
 
-1. **Access the File Search**: In the Material Security dashboard, navigate to the "Data Protection" section and select the "File Search" tab.
+1. **Access the File Search**: In the Material Security dashboard, click the "File Search".
 
 2. **Perform Sensitive File Searches**: Use the advanced search capabilities to quickly identify files that meet specific criteria, such as:
    - Files containing sensitive content (e.g., PII, financial data)
