@@ -21,7 +21,7 @@ Once you've identified sensitive files, you can take action to remediate the ris
 ## Step-by-Step Guide
 Here's how you can use the file search interface to find and protect sensitive information in Google Drive:
 
-1. **Access the File Search Interface**: Log in to the Material Security dashboard and navigate to the "Data Protection" section. Here you will find the file search interface.
+1. **Access the File Search Interface**: Log in to the Material Security dashboard and navigate to the Sidebar section. Here you will find the file search interface.
 
 2. **Define Your Search Criteria**: Use the various filters and selectors to build your search query. For example, you could start by looking for files classified as "Confidential" that are shared externally.
 
