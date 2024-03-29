@@ -1,4 +1,4 @@
-# Tadata Docs Demo
+# Material Security Docs Demo
 
 > A simple [Tadata](https://tadatahq.com/) auto created documentation.
 
