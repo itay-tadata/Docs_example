@@ -14,7 +14,7 @@ To access the SARS filing section in the Unit 21 dashboard, follow these steps:
 
 The SARS filing section provides you with various options to configure the pre-populated information that will be included in your SARS reports.
 
-![SARS Filing Section in the Unit 21 Dashboard](./screenshots/SAR_Narrative_Creation/0252_280.jpg)
+![SARS Filing Section in the Unit 21 Dashboard](https://github.com/itay-tadata/Docs_example/blob/main/screenshots/SAR_Narrative_Creation/0252_280.jpg)
 
 ## Configuring SARS Narrative Settings
 
