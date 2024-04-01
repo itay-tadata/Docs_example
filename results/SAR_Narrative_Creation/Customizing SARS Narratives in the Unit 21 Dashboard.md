@@ -28,13 +28,13 @@ The order of precedence for selecting the appropriate narrative is as follows:
 1. Custom narratives associated with specific tags or case types
 2. Default SARS narrative
 
-![Configuring Custom SARS Narratives](https://github.com/itay-tadata/Docs_example/blob/main/screenshots/SAR_Narrative_Creation/0194_880.jpg)
+![Configuring Custom SARS Narratives](./SAR_Narrative_Creation/0194_880.jpg)
 
 ## Generating SARS Reports
 
 When creating a SARS report from a case in the Unit 21 dashboard, the pre-populated narrative information will be populated based on the selected tags or the default settings you have configured in the SARS filing section.
 
-![Generating a SARS Report](https://github.com/itay-tadata/Docs_example/blob/main/screenshots/SAR_Narrative_Creation/0252_400.jpg)
+![Generating a SARS Report](./SAR_Narrative_Creation/0252_400.jpg)
 
 ## Editing SARS Narratives
 
