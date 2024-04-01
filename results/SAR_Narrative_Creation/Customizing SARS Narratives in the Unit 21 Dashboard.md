@@ -14,7 +14,7 @@ To access the SARS filing section in the Unit 21 dashboard, follow these steps:
 
 The SARS filing section provides you with various options to configure the pre-populated information that will be included in your SARS reports.
 
-![SARS Filing Section in the Unit 21 Dashboard](0252_280.jpg)
+![SARS Filing Section in the Unit 21 Dashboard](./screenshots/SAR_Narrative_Creation/0252_280.jpg)
 
 ## Configuring SARS Narrative Settings
 
@@ -28,13 +28,13 @@ The order of precedence for selecting the appropriate narrative is as follows:
 1. Custom narratives associated with specific tags or case types
 2. Default SARS narrative
 
-![Configuring Custom SARS Narratives](0194_880.jpg)
+![Configuring Custom SARS Narratives](./screenshots/SAR_Narrative_Creation/0194_880.jpg)
 
 ## Generating SARS Reports
 
 When creating a SARS report from a case in the Unit 21 dashboard, the pre-populated narrative information will be populated based on the selected tags or the default settings you have configured in the SARS filing section.
 
-![Generating a SARS Report](0252_400.jpg)
+![Generating a SARS Report](./screenshots/SAR_Narrative_Creation/0252_400.jpg)
 
 ## Editing SARS Narratives
 
@@ -46,5 +46,3 @@ You can edit the default SARS narrative or any custom narratives you have create
 - Collaborate with your compliance team to ensure the narratives are clear, concise, and provide the necessary information for SARS filing.
 - Implement a review process to ensure the narratives are accurate and consistent across all cases.
 - Train your team on the importance of accurate SARS narratives and the process for customizing them in the Unit 21 dashboard.
-
-By following these best practices and leveraging the SARS narrative customization capabilities in the Unit 21 dashboard, you can improve the quality and effectiveness of your SARS filing process.
